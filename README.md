@@ -18,12 +18,12 @@ Simulates water usage
 *Counts device entries
 *Capture first/last log times
 *Appends results to reports/analysis_report.txt
-##Authors Group 3
+
 ## Members
-Nziza Samuel
-Teta Aline
-Mugisha Paradise
-Havugimana Cedric
+#Nziza Samuel
+#Teta Aline
+#Mugisha Paradise
+#Havugimana Cedric
 Ishimwe Axcel
 
 
