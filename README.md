@@ -3,20 +3,22 @@
 This project automates log collection of health and utility data, controls log archiving with timestamping, and Device-specific analytics and  report generation
 ## Components
 ### Python simulators
-heart_monitor.py :Simulates heart rate data
-temp_sensor.py:Simulates temperature readings
-water_meter.py: Simulates water usage
+####heart_monitor.py 
+Simulates heart rate data
+####temp_sensor.py
+Simulates temperature readings
+####water_meter.py
+Simulates water usage
 ### Scripts
-*archive_logs.sh:
-.Prompts user to selects a log
-.Archives with timestamp
-.Creates new empty log for continued monitoring
-*analyze_logs.sh:
-.Counts device entries
-.Capture first/last log times
-.Appends results to reports/analysis_report.txt
-#Authors
-. Group 3
+#archive_logs.sh:
+*Prompts user to selects a log
+*Archives with timestamp
+*Creates new empty log for continued monitoring
+#analyze_logs.sh:
+*Counts device entries
+*Capture first/last log times
+*Appends results to reports/analysis_report.txt
+##Authors Group 3
 ## Members
 Nziza Samuel
 Teta Aline
