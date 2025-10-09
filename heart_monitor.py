@@ -30,7 +30,11 @@ def start():
         with open(PID_FILE, "w") as f:
             f.write(str(pid))
         print(f"Started. PID: {pid}")
+<<<<<<< HEAD
     else:
+=======
+    else:8
+>>>>>>> db3b4a3292661202261e9989c4e713cdcd1392f6
         log_data()
 
 def stop():
@@ -54,3 +58,7 @@ if __name__ == "__main__":
         stop()
     else:
         print("Invalid command. Use 'start' or 'stop'.")
+<<<<<<< HEAD
+=======
+
+>>>>>>> db3b4a3292661202261e9989c4e713cdcd1392f6
